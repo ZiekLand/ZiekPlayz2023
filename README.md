@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python**
 - 🤔 I’m looking for help with **My Web**
 - 💬 Ask me about Something
-- 📫 How to reach me: My Discord Server **https://discord.com/invite/atcAdWeezQ**
+- 📫 How to reach me: **My Discord Server https://discord.com/invite/atcAdWeezQ**
 - 😄 My Name Pronouns: **Sick**
