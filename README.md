@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Website **https://ziekland.repl.co/**
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with My Web
+- 🔭 I’m currently working on **My Website https://ziekland.repl.co/**
+- 🌱 I’m currently learning **Python**
+- 🤔 I’m looking for help with **My Web**
 - 💬 Ask me about Something
 - 📫 How to reach me: My Discord Server **https://discord.com/invite/atcAdWeezQ**
-- 😄 My Name Pronouns: Sick
+- 😄 My Name Pronouns: **Sick**
