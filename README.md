@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ZiekPlayz2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ZiekPlayz2023" height="30" width="40" /></a>
-<a href="https://instagram.com/ziekdjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziekdjd" height="30" width="40" /></a>
-<a href="https://discord.com/invite/atcAdWeezQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/atcAdWeezQ" height="30" width="40" /></a>
+<a href="https://twitter.com/ZiekPlayz2023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ZiekPlayz2023" height="30" width="40" /></a>
+<a href="https://instagram.com/ziekdjd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziekdjd" height="30" width="40" /></a>
+<a href="https://discord.com/invite/atcAdWeezQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/atcAdWeezQ" height="30" width="40" /></a>
 </p>
